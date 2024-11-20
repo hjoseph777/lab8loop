@@ -10,7 +10,7 @@
 
 
 ## Images
-![Screen Output](src/main/resources/images/screen_output.png)
+![Screen Output](src/main/resources/images/Screen_Output.png)
 
 
 ## Code
